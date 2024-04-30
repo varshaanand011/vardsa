@@ -1,0 +1,43 @@
+.heading{
+  background-color: black;
+  color: aliceblue;
+  
+
+}
+.header h1{
+  color: aliceblue;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size:25px;
+}
+.h2 h2{
+  font-size:65px;
+  justify-content: space-evenly;
+font-family: 'Courier New', Courier, monospace;
+}
+*{
+  margin: 10px;
+  padding:0px;
+}
+.para{
+  width: 850px;
+}
+.row{
+  height: 300px;
+  width:200px;
+  display:flex;
+  justify-content: center;
+}
+.redu{
+  height: 100px;
+  width: 100px;
+  display: flex;
+  justify-content: center;
+}
+.caps{
+  height: 300px;
+  width: 270px;
+}
+.ctrl{
+  height: 300px;
+  width: 270px;
+}
